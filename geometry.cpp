@@ -106,6 +106,10 @@ int main()
      square s1(10);
      s1.area();
      s1.perimeter();
+
+ 
+     circle c2(12);
+     c2.area();
      return 0;
 
 }
